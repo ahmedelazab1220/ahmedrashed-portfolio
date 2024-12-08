@@ -66065,7 +66065,7 @@ q.toString
 q=A.c4(this.c+" ",r,r,q.fh($.n().an(11)),r)
 s=A.P(a).p2.w
 s.toString
-return A.e9(A.a([q,A.aik(A.c4(this.d,r,r,s.fh($.n().an(10)),r),new A.UP(a))],t.p),B.K,B.cn,B.a4)}}
+return A.e9(A.a([q,A.aik(A.c4(this.d,r,r,s.fh($.n().an(11)),r),new A.UP(a))],t.p),B.K,B.cn,B.a4)}}
 A.UP.prototype={
 $1(a){return new A.c7(B.R,B.P,B.L,A.P(this.a).ax.a===B.p?$.i3():$.aum,null,null).zg(a)},
 $S:67}
@@ -66081,8 +66081,8 @@ A.CA.prototype={
 J(a){var s=null
 return A.Il(A.cX(s,B.x6,B.u,s,new A.bC(s,s,s,s,s,new A.c7(B.R,B.P,B.L,A.P(a).ax.a===B.p?$.i4():$.i7,s,s),B.J),s,s,s,s,s,s,s,s),s)}}
 A.Cw.prototype={
-J(a){var s=null,r="Latest Projects",q=10*$.n().gL(),p=20*$.n().gU()
-return new A.bf(new A.aa(q,p,q,p),A.ui(A.a([new A.jW(new A.aa(0,0,0,20*$.n().gU()),new A.iL(new A.pj(B.d.a3(r,0,5),B.d.bR(r,6),s),s),s),A.De(B.Mf,new A.Sz(),t.GG)],t.p)),s)}}
+J(a){var s=null,r="Achievements",q=10*$.n().gL(),p=20*$.n().gU()
+return new A.bf(new A.aa(q,p,q,p),A.ui(A.a([new A.jW(new A.aa(0,0,0,20*$.n().gU()),new A.iL(new A.pj(B.d.a3(r,0,5),B.d.bR(r,5),s),s),s),A.De(B.Mf,new A.Sz(),t.GG)],t.p)),s)}}
 A.Sz.prototype={
 $1(a){return A.auc()},
 $S:422}
